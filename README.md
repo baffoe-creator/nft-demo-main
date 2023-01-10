@@ -1,6 +1,14 @@
-Welcome to the GitHub Repository for Simple and Advanced NFTs with Solidity! 
+# NFT Smart Contract Repository
+This repository contains the code for Non-Fungible Token (NFT) Smart Contracts written in Solidity and Javascript. The code is divided into two sections: Simple NFTs and Advanced NFTs.
 
-This repository contains the code for creating, managing and trading NFTs using Solidity. The code is divided into two sections, one for Simple NFTs and one for Advanced NFTs. 
+## Simple NFTs
+The Simple NFTs section contains basic implementations of NFTs, such as a basic ERC721 contract and a contract for a single type of NFT.
 
-The Simple NFTs section contains the code for creating, managing and trading a single type of NFT. The Advanced NFTs section contains the code for creating, managing and trading multiple types of NFTs. 
-I hope you find this repository useful in creating your own NFTs with Solidity! Please feel free to reach out with any questions or feedback.
+## Advanced NFTs
+The Advanced NFTs section contains more complex implementations of NFTs, such as a multi-owner ERC721 contract and a contract for multiple types of NFTs.
+
+## Tests
+Unit and integration tests are conducted on the code in this repository to ensure that the contracts are operating as expected.
+
+## Contributing
+We welcome contributions to this repository. If you have suggestions or improvements, please open an issue or pull request.
